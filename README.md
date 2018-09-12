@@ -6,6 +6,7 @@
 ```diff
 + Extract all data (2011-now).
 + Refactor extract.py
++ Train RNN to classify gender, [Dataset](https://github.com/datasets-br/prenomes)
 ```
 
 # New data
